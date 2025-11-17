@@ -1,3 +1,4 @@
+--Задание 2
 
 SELECT title, duration  FROM Track
 
@@ -29,7 +30,7 @@ WHERE title LIKE '%мой%' or title LIKE '%my%';
 
 
 
-
+--Задание 3
 
 SELECT g.name AS Genre, COUNT(ga.artist_id) AS artist_count 
 
