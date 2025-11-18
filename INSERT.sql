@@ -25,7 +25,7 @@ VALUES(1, 1), (2, 2), (3, 3), (4, 4);
 
 INSERT INTO Track(title, duration, album_id) 
 
-VALUES('Hello', 202, 1), ('So What', 545, 1), ('Emmy', 201, 2), ('Love', 350, 2), ('Green', 350, 3), ('More', 359, 4);
+VALUES('My own', 202, 1), ('Own my', 545, 1), ('my', 201, 2), ('oh my god', 350, 2), ('Green', 350, 3), ('More', 359, 4), ('myself', 359, 4), ('by myself', 359, 4), ('bemy self', 359, 4), ('myself by', 359, 4), ('by myself by', 359, 4), ('beemy', 359, 4), ('premyne', 359, 4);
 
 
 INSERT INTO Collection(title, year) 
